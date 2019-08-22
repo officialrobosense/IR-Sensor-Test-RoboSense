@@ -1,2 +1,2 @@
-# IR-Sensor-Test-Angle-Bracket
+# IR-Sensor-Test-RoboSense
 Arduino Integration with IR sensor
